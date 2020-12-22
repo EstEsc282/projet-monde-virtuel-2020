@@ -2,7 +2,7 @@
 projet-monde-virtuel-2020-EstEsc282 created by GitHub Classroom
 
 Lien .rar projet :
-https://drive.google.com/file/d/1A7Dwigaxsf48t7IzvJPkrJee36LgQ8ok/view?usp=sharing
+https://drive.google.com/drive/folders/1wjk8oBYx3-MdN1LIgpAcBJZ7qvst0_GE?usp=sharing
 
 La partie finale s'appelle PMV_Final.
 
